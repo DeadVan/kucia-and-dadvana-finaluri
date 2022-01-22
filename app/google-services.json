@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639639288266",
+    "project_id": "lusq-caa3e",
+    "storage_bucket": "lusq-caa3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639639288266:android:07df23a7925a8bc9f07733",
+        "android_client_info": {
+          "package_name": "com.example.lus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639639288266-cb51o2785hu1hv0jivd558dkea4m5rpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYp4UyFR02EKuie_-l9ohvJJZYVZB8q4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639639288266-cb51o2785hu1hv0jivd558dkea4m5rpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
